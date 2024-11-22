@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+}
+#second , #fourth{
+  background-image: url("laptop2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.profile{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+}
+a{
+    font-size: 50px;
+}
+.repair{
+    mix-blend-mode: multiply;
+}
+.html{
+    width: 15rem;
+}
+.skill{
+    overflow: scroll;
+}
+.input{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  
+}
+.name{
+  height: 2rem;
+  padding: 5px;
+}
+.qur{
+   height: 10rem;
+  
+}
